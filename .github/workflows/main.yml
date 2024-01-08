@@ -2,7 +2,7 @@ name: Skechers workflow
 on:
   push:
     branches:
-      - test1
+      - new1
 
 jobs:
   deploy:
